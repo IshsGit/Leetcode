@@ -19,4 +19,4 @@ def round_sum(a, b, c):
 print(round_sum(16, 17, 18))    
 
 # if the last digit is >= 5 then +1 the digit before it
-# to get last digit do num % 10. Then if its >= 5, ,,
+# to get last digit do num % 10. Then if its >= 5
